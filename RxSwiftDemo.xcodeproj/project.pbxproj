@@ -21,6 +21,7 @@
 		5B585F5321EF37A7001BC210 /* GankDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B585F5221EF37A7001BC210 /* GankDataModel.swift */; };
 		5B585F5621EF7C42001BC210 /* MyProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B585F5521EF7C41001BC210 /* MyProgressHUD.swift */; };
 		5B585F5821EF7D53001BC210 /* GankViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B585F5721EF7D53001BC210 /* GankViewCell.swift */; };
+		5BE3C42622181F280035B3C8 /* ZhihuAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE3C42522181F280035B3C8 /* ZhihuAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		5B585F5221EF37A7001BC210 /* GankDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GankDataModel.swift; sourceTree = "<group>"; };
 		5B585F5521EF7C41001BC210 /* MyProgressHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyProgressHUD.swift; sourceTree = "<group>"; };
 		5B585F5721EF7D53001BC210 /* GankViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GankViewCell.swift; sourceTree = "<group>"; };
+		5BE3C42522181F280035B3C8 /* ZhihuAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhihuAPI.swift; sourceTree = "<group>"; };
 		826D7FF26E06A0D8A5BE6F33 /* Pods-RxSwiftDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxSwiftDemo/Pods-RxSwiftDemo.release.xcconfig"; sourceTree = "<group>"; };
 		D44E660C7EF98D1E1E3CD254 /* Pods_RxSwiftDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -162,6 +164,7 @@
 			isa = PBXGroup;
 			children = (
 				5B585F4C21EEEAF8001BC210 /* GankAPI.swift */,
+				5BE3C42522181F280035B3C8 /* ZhihuAPI.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				5B585F5821EF7D53001BC210 /* GankViewCell.swift in Sources */,
 				5B585F5121EEF095001BC210 /* GankModel.swift in Sources */,
 				5B585F1821EEE4A6001BC210 /* AppDelegate.swift in Sources */,
+				5BE3C42622181F280035B3C8 /* ZhihuAPI.swift in Sources */,
 				5B585F4D21EEEAF8001BC210 /* GankAPI.swift in Sources */,
 				5B585F5621EF7C42001BC210 /* MyProgressHUD.swift in Sources */,
 				5B585F5321EF37A7001BC210 /* GankDataModel.swift in Sources */,
